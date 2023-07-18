@@ -1,0 +1,20 @@
+#hi {
+    color: black;
+    animation-name: hi;
+    animation-duration: 400<s ;
+    animation-delay: 2s;
+}
+
+@keyframes hi {
+    0% {color: yellow;}
+    10% {color: orange;}
+    20% {color: red;}
+    30% {color: pink;}
+    40% {color: purple;}
+    50% {color: blue;}
+    60% {color: lightblue;}
+    70% {color: darkgreen;}
+    80% {color: green;}
+    90% {color: lightgreen;}
+    100% {color: lightyellow;}
+}

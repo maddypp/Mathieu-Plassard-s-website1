@@ -1,0 +1,186 @@
+.banner-card {
+    position: relative;
+}
+
+.banner-card img {
+    width: 1263px;
+    height: fit-content;
+    text-align: center;
+}
+
+.banner-text{
+    position: absolute;
+    top: -50%;
+    color: white;
+    padding: 500px;
+    text-align: center;
+}
+
+#title {
+    font-size:xx-large;
+}
+
+.info {
+    text-align: center;
+    color: black;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.franceDiv {
+    position: relative;
+    color: black;
+}
+
+.franceDiv img {
+    width: 1263px;
+    height: fit-content;
+    text-align: center;
+}
+
+.france-textDiv {
+    position: absolute;
+    top: -100%;
+    color: black;
+    padding: 580px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.france-textDiv hr {
+    color: black;
+}
+
+#ftitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+.canadaDiv {
+    position: relative;
+}
+
+.canadaDiv img {
+    width: 1263px;
+    height: fit-content;
+    text-align: center;
+}
+
+.canada-textDiv {
+    position: absolute;
+    top: -90%;
+    color: white;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 500px;
+}
+
+.australiaDiv {
+    position: relative;
+}
+
+.australiaDiv img {
+    width: 1263px;
+    height: fit-content;
+    text-align: center;
+}
+
+.australia-textDiv {
+    position: absolute;
+    top: -90%;
+    color: black;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 500px;
+}
+
+.hr {
+    background-color: black;
+    border-color: black;
+}
+
+.workDiv {
+    position: relative; 
+}
+
+.workDiv img {
+    width: 1263px;
+    height: 700px;
+    text-align: center;
+}
+
+.work-textDiv {
+    position: absolute;
+    top: -50%;
+    color: white;
+    text-align: center;
+    padding-left: 560px;
+    padding-top: 500px;
+}
+
+.status {
+    text-align: center;
+}
+
+.experience {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.skills {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.why_me {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.cv {
+    text-align: center;
+}
+
+.letter_of_rec {
+    text-align: center;
+}
+
+.programming {
+    position: relative; 
+}
+
+.programming img {
+    width: 1263px;
+    height: 700px;
+    text-align: center;
+}
+
+.programming-textDiv {
+    position: absolute;
+    top: -50%;
+    color: white;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 500px;
+}
+
+.languages {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.reviews {
+    text-align: center;
+}
+
+.Contact {
+    text-align: center;
+}
